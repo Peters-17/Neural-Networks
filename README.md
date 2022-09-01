@@ -1,4 +1,5 @@
 # Neural-Networks
+Score 100/100
 # Assignment Goals
 • Get Pytorch set up for your environment.
 • Familiarize yourself with the tools.
